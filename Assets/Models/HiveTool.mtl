@@ -1,0 +1,13 @@
+# Blender MTL File: 'HiveTool.blend'
+# Material Count: 1
+
+newmtl HiveTool
+Ns 225.000000
+Ka 0.387879 0.387879 0.387879
+Kd 0.152555 0.152845 0.229166
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd .
